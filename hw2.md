@@ -19,6 +19,6 @@ gantt
 ```
 
 # PERT 圖
-
+![PERT](hw02.jpg)
 # 關鍵路徑
 
